@@ -11,7 +11,8 @@ Oracle Pluggable Database Management Assignment - INSY 8311
 - **Instructor:** Eric Maniraguha
 - **Assignment:** Individual Assignment II
 - **Submission Date:** February 16, 2026
-
+- **GITHUB link:** https://github.com/inezalisagabrielle-gif/oracle_pdb_ass_II_28527_ineza.git
+  
 ---
 
 ## 📋 Table of Contents
