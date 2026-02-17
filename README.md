@@ -107,16 +107,16 @@ Following the assignment's strict naming requirements:
 ### Evidence
 
 #### PDB Creation Command
-![PDB Creation Command](screenshots/task1_pdb_creation.png)
+![PDB Creation Command](screenshots/creation.png)
 
 #### PDB Open State
-![PDB Open State](screenshots/task1_pdb_open_status.png)
+![PDB Open State](screenshots/open_state.png)
 
 #### User Created Inside PDB
-![User Creation](screenshots/task1_user_creation.png)
+![User Creation](screenshots/creation.png)
 
 #### User Verification
-![User Verification](screenshots/task1_user_verification.png)
+![User Verification](screenshots/verified_oem_configuration.png)
 
 ---
 
@@ -165,18 +165,14 @@ Following the assignment's strict naming requirements:
 ### Evidence
 
 #### Temporary PDB Creation
-![Temporary PDB Creation](screenshots/task2_temp_pdb_creation.png)
+![Temporary PDB Creation](screenshots/creation_temp_pdb.png)
 
 #### PDB Existence Verification
-![PDB Exists](screenshots/task2_pdb_exists.png)
+![PDB Exists](screenshots/verify_temp_pdb.png)
 
 #### PDB Deletion Process
-![PDB Deletion](screenshots/task2_pdb_deletion.png)
+![PDB Deletion](screenshots/drop.png)
 
-#### Deletion Confirmation
-![Deletion Confirmed](screenshots/task2_deletion_confirmed.png)
-
----
 
 ## Task 3: Oracle Enterprise Manager (OEM)
 
@@ -210,15 +206,8 @@ I used Oracle Enterprise Manager Database Express (EM Express) to check my datab
 ### Evidence
 
 #### OEM Dashboard Overview
-![OEM Dashboard](screenshots/task3_oem_dashboard.png)
+![OEM Dashboard](screenshots/dashboard.png)
 
-#### PDB Management in OEM
-![PDB in OEM](screenshots/task3_oem_pdb_view.png)
-
-#### User Session Information
-![OEM User Info](screenshots/task3_oem_user_session.png)
-
----
 
 ## Challenges Encountered and Solutions
 
