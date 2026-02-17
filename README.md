@@ -308,19 +308,15 @@ oracle_pdb_ass_II_28527_ineza/
 ├── README.md                          # This file
 │
 └── screenshots/
-    ├── task1_pdb_creation.png        # PDB creation command
-    ├── task1_pdb_open_status.png     # PDB open state
-    ├── task1_user_creation.png       # User creation
-    ├── task1_user_verification.png   # User verification
-    ├── task2_temp_pdb_creation.png   # Temporary PDB creation
-    ├── task2_pdb_exists.png          # PDB existence verification
-    ├── task2_pdb_deletion.png        # PDB deletion command
-    ├── task2_deletion_confirmed.png  # Deletion confirmation
-    ├── task3_oem_dashboard.png       # OEM dashboard
-    ├── task3_oem_pdb_view.png        # PDB view in OEM
-    └── task3_oem_user_session.png    # User session in OEM
-```
-
+    ├── creation.png        # PDB creation command
+    ├── open_state.png     # PDB open state
+    ├── creation.png       # User creation
+    ├── verification.png   # User verification
+    ├── creation_temp.png   # Temporary PDB creation
+    ├── exists.png          # PDB existence verification
+    ├── drop.png        # PDB deletion command
+    ├── verified_oem_configuration.png  # Deletion confirmation
+    ├── dashboard.png       # OEM dashboard
 ---
 
 ## Additional Notes
